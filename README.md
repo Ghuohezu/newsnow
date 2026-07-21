@@ -124,7 +124,7 @@ For detailed instructions on how to add new sources, see [CONTRIBUTING.md](CONTR
 
 The new version is coming soon and we will no longer accept contributions
 
-~~See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute, especially for adding new data sources.~~
+~~See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines on how to contribute, especially for adding new data sources.~~  
 
 ## License
 
