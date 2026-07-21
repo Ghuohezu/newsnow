@@ -112,7 +112,7 @@ For detailed instructions on how to add new sources, see [CONTRIBUTING.md](CONTR
 ## Roadmap
 
 - Add **multi-language support** (English, Chinese, more to come).
-- Improve **personalization options** (category-based news, saved preferences).
+- Improve **personalization options** (category-based news, saved preferences). 
 - Expand **data sources** to cover global news in multiple languages.
 
 **_release when ready_**
